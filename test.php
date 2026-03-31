@@ -1,6 +1,11 @@
 <?php
- $a = 5;
- $b = 6;
+ echo "Εισάγετε την πρώτη τιμή: ";
+ $a = (float) trim(fgets(STDIN));
+ 
+ echo "Εισάγετε τη δεύτερη τιμή: ";
+ $b = (float) trim(fgets(STDIN));
+ 
  $c = $a + $b;
- print $c;
+ 
+ echo "\nΤο άθροισμα είναι: " . $c . "\n";
 ?> 
