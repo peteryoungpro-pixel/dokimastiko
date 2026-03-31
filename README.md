@@ -1,3 +1,2 @@
 # dokimastiko
-dokimastiko
-stika
+dookistakisomapipa
